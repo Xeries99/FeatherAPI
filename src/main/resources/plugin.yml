@@ -1,9 +1,0 @@
-name: FeatherAPI
-version: '1.0-SNAPSHOT'
-main: pl.xaries.featherAPI.Main
-api-version: '1.20'
-authors: [ Xeries99 ]
-website: x-creator.pl
-
-commands:
-  featherapi:
